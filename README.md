@@ -19,6 +19,16 @@ Atualmente estudo autenticação, MongoDB e Next.js.
 
 ---
 
+<p align="center">
+  <a href="https://github.com/igorfonseca05/notes-Nodejs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=igorfonseca05&repo=notes-Nodejs&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/igorfonseca05/algum-outro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=igorfonseca05&repo=algum-outro&theme=tokyonight" />
+  </a>
+</p>
+
+
 ### 📈 GitHub Stats
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfonseca05&show_icons=true&theme=tokyonight)
