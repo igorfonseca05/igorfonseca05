@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá 👋 Eu sou o Igor!
 
-<!--
-**igorfonseca05/igorfonseca05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em React, Node.js e Firebase.  
+Atualmente estudo autenticação, MongoDB e Next.js.
 
-Here are some ideas to get you started:
+🚀 Blog pessoal: [Code Journal](https://linkdoproj.com)  
+📬 Contato: igor@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tecnologias que uso
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+---
+
+### 📈 GitHub Stats
+
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfonseca05&show_icons=true&theme=tokyonight)
+
+
