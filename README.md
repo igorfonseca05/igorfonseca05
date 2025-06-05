@@ -20,4 +20,6 @@ Atualmente estudo autenticação, MongoDB e Next.js.
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfonseca05&show_icons=true&theme=tokyonight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
