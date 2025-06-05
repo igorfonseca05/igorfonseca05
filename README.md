@@ -24,4 +24,7 @@ Atualmente estudo autenticação, MongoDB e Next.js.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfonseca05&layout=compact&theme=tokyonight)
+
+
 
