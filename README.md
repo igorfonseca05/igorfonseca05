@@ -8,6 +8,9 @@ Atualmente estudo autenticação, MongoDB e Next.js.
 
 ---
 
+[![Meu repositório de Node.js](https://github-readme-stats.vercel.app/api/pin/?username=igorfonseca05&repo=notes-Nodejs&theme=tokyonight)](https://github.com/igorfonseca05/notes-Nodejs)
+
+
 ### 💻 Tecnologias que uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
