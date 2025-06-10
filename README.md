@@ -1,7 +1,11 @@
 ## Olá 👋 Eu sou o Igor!
 
-Sou desenvolvedor focado em React, Node.js e Firebase.  
-Atualmente estudo autenticação, MongoDB e Next.js.
+Graduando do 6º período em Ciência de Dados pela UNIVESP, e interessado em desenvolvimento web full stack. Atuo com React e Next.js no front-end, e com Node.js, NestJS e TypeScript no back-end.  
+ e pelo desejo constante de melhorar minhas soluções e processos. Tenho facilidade em aprender de forma autodidata, comunicar ideias com clareza e colaborar em equipe. Prezo por organização, responsabilidade e atenção aos detalhes, sempre buscando entregar código limpo e funcional.
+
+Também invisto no desenvolvimento da minha fluência em inglês, com foco em comunicação técnica e colaboração em ambientes internacionais.
+
+Acredito na tecnologia como ferramenta para resolver problemas reais e criar experiências significativas. Estou sempre aberto a novos desafios e a oportunidades de crescimento — individual e em equipe.
 
 🚀 Blog pessoal: [Code Journal](https://linkdoproj.com)  
 📬 Contato: igor@email.com
