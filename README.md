@@ -1,3 +1,4 @@
+![asdf](https://github.com/user-attachments/assets/fa81bc2a-5ff3-4965-a9e3-cee185d72a8b)
 ## Olá 👋 Eu sou o Igor!
 
 Graduando do 6º período em Ciência de Dados pela UNIVESP, e interessado em desenvolvimento web full stack. Atuo com React e Next.js no front-end, e com Node.js, NestJS e TypeScript no back-end.  
