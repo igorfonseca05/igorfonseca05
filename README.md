@@ -1,15 +1,14 @@
 # Olá 👋 Eu sou o Igor!
-![Group 1](https://github.com/user-attachments/assets/36877753-21e1-483e-90e0-0e7f9700c490)
+<img width="1536" height="398" alt="buraco negro" src="https://github.com/user-attachments/assets/2c8b6544-3308-42e8-8f1e-c53d3799f2ae" />
 
 
-Graduando do 6º período em Ciência de Dados pela UNIVESP, e interessado em desenvolvimento web full stack. Atuo com React e Next.js no front-end, e com Node.js, NestJS e TypeScript no back-end.  
- e pelo desejo constante de melhorar minhas soluções e processos. Tenho facilidade em aprender de forma autodidata, comunicar ideias com clareza e colaborar em equipe. Prezo por organização, responsabilidade e atenção aos detalhes, sempre buscando entregar código limpo e funcional.
 
-Também invisto no desenvolvimento da minha fluência em inglês, com foco em comunicação técnica e colaboração em ambientes internacionais.
+Mestre em Computação e Informação Quântica pela UFF e graduando em Ciência de Dados (6º período) pela UNIVESP, com interesse em desenvolvimento web e arquitetura de software. Trabalho principalmente com React e Next.js no front-end, e Node.js e NestJS no back-end.
 
-Acredito na tecnologia como ferramenta para resolver problemas reais e criar experiências significativas. Estou sempre aberto a novos desafios e a oportunidades de crescimento — individual e em equipe.
+Acredito que o trabalho em equipe é essencial para o crescimento pessoal e profissional, e busco sempre comunicar minhas ideias de forma clara e entregar código limpo e funcional.
 
-🚀 Blog pessoal: [Code Journal](https://linkdoproj.com)  
+Dedico também tempo ao desenvolvimento da minha fluência em inglês, com foco em comunicação técnica e colaboração em ambientes internacionais.
+ 
 📬 Contato: igor@email.com
 
 ---
@@ -17,15 +16,25 @@ Acredito na tecnologia como ferramenta para resolver problemas reais e criar exp
 ### 💻 Tecnologias que uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-Nest.Js-black?style=flat-square&logo=nest.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
 
 ---
 
 
-### 📈 GitHub Stats
+### 📈 Projetos
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfonseca05&show_icons=true&theme=tokyonight)
+
+
 
 
 
