@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Igor
 
 ### 👨‍💻 Sobre mim
-🎓 Graduado em Física pelo IFRJ  
 ✅ Mestre em Computação e Informação Quântica pela UFF  
 📘 Graduando em Ciência de Dados (6º período) pela UNIVESP  
+🎓 Graduado em Física pelo IFRJ  
 
 ---
 
