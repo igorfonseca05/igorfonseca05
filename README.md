@@ -59,12 +59,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorfondev@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512991742515)
 
----
-
-### 📈 Estatísticas do GitHub  
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfonseca05&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfonseca05&layout=compact&theme=tokyonight)
-
 
 
 
