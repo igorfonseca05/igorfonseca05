@@ -1,8 +1,5 @@
 # 👋 Olá! Eu sou o Igor
 
-<img width="1536" height="272" alt="buraco negro" src="https://github.com/user-attachments/assets/8f51c6dd-6901-44b5-acb4-a7158e12c7c2" />
-
-
 ### 👨‍💻 Sobre mim
 🎓 Graduado em Física pelo IFRJ  
 ✅ Mestre em Computação e Informação Quântica pela UFF  
@@ -14,6 +11,7 @@
 - Desenvolvimento Web ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - Arquitetura de Software ⚙️
 - Ciência de Dados 📊
+- Segurança da informação
 
 ---
 
