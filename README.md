@@ -2,10 +2,10 @@
 
 👨‍💻 Sobre mim
 
+💻 Desenvolvedor Full Stack JavaScript  
 ✅ Mestre em Computação e Informação Quântica pela UFF  
 📘 Graduando em Ciência de Dados (6º período) pela UNIVESP  
 🎓 Graduado em Física pelo IFRJ  
-💻 Desenvolvedor Full Stack JavaScript  
 
 ---
 
