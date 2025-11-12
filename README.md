@@ -1,9 +1,11 @@
 # 👋 Olá! Eu sou o Igor
 
-✅ Mestre em Computação e Informação Quântica pela UFF
-📘 Graduando em Ciência de Dados (6º período) pela UNIVESP
-🎓 Graduado em Física pelo IFRJ
-💻 Desenvolvedor Full Stack JavaScript
+👨‍💻 Sobre mim
+
+✅ Mestre em Computação e Informação Quântica pela UFF  
+📘 Graduando em Ciência de Dados (6º período) pela UNIVESP  
+🎓 Graduado em Física pelo IFRJ  
+💻 Desenvolvedor Full Stack JavaScript  
 
 ---
 
