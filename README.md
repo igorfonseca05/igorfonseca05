@@ -10,7 +10,7 @@
 ---
 
 ### 🎯 Interesses
-- Desenvolvimento Web ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- Desenvolvimento Web 
 - Arquitetura de Software ⚙️
 - Ciência de Dados 📊
 - Segurança da informação
