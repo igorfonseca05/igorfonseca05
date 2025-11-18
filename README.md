@@ -49,6 +49,7 @@
 ### 🧠 Projetos em destaque  
 
 🔹 [Ticket Bus](https://github.com/igorfonseca05/Ticket-bus) — Sistema completo de compra de passagens com seleção de assentos e download de bilhete.  
+🔹 [CSV-JSON Converter](https://github.com/igorfonseca05/CSV-to-JSON-Converters) — Converte arquivos CSV em JSON de forma rápida e prática.  
 🔹 [Delivery Website](https://github.com/igorfonseca05/Delivery-website) — Aplicação web para gerenciamento de pedidos e entregas.  
 🔹 [Tarefas Next.js](https://github.com/igorfonseca05/Tarefas-nextjs) — Gerenciador simples de tarefas com autenticação e integração de backend.  
 
