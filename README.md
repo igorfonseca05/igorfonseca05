@@ -2,6 +2,7 @@
 
 <img width="4058" height="1020" alt="novo bg" src="https://github.com/user-attachments/assets/059d34f4-d51c-425e-bfe6-23b4bdd90983" />
 
+
 👨‍💻 Sobre mim
 
 💻 Desenvolvedor Full Stack JavaScript  
