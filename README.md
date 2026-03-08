@@ -1,6 +1,6 @@
 👋 Olá! Eu sou o Igor
 
-<img width="4058" height="1020" alt="novo bg (1)" src="https://github.com/user-attachments/assets/35269dad-8d18-438f-b9b3-cc1008420793" />
+<img width="4058" height="1020" alt="bg" src="https://github.com/user-attachments/assets/f4024742-14fb-4f7e-8d4e-52aa193f3632" />
 
 
 
